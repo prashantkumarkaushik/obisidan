@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "c80997a30a400746",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c07307a9f059db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Introduction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7a7a47031258b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "66efb05f70856c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89da0e891babcc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c335f3e83b6e1947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2ea1d4e08029936",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3beef8aa7f73278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6799d4d41607ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "252b8b580ab1df10",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80c07307a9f059db",
+  "lastOpenFiles": [
+    "Introduction.md",
+    "Backend.md",
+    "Resources.md",
+    "REST.md",
+    "Http response code.md",
+    "Http Methods.md",
+    "URI.md",
+    "youtube tutorial.md",
+    "H.md",
+    "sub-resources.md"
+  ]
+}

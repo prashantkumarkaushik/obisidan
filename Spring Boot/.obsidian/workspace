@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "e48006059a4d4169",
+    "type": "split",
+    "children": [
+      {
+        "id": "7127085f224595f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Beans.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "04b3daf718be3def",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Beans.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c386f4b000da74c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e389d103532bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0678afcc67c05d96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31e9b62342beafa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "05ac6b76f299b336",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5268eaa61307e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65fdf04fd2b68b68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Beans.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7127085f224595f1",
+  "lastOpenFiles": [
+    "Beans.md",
+    "Introduction.md"
+  ]
+}
